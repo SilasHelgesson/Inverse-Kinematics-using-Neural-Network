@@ -22,7 +22,7 @@ class MoveItIKSolver(Node):
         self.joint_names = ['fr3_joint1', 'fr3_joint2', 'fr3_joint3', 
                            'fr3_joint4', 'fr3_joint5', 'fr3_joint6', 'fr3_joint7']
         self.current_joint_positions = [0.0, -0.7853981633974483, 0.0, -2.356194490192345, 0.0, 1.5707963267948966, 0.7853981633974483]
-        
+        self.last_ik_solution = [0.0, -0.7853981633974483, 0.0, -2.356194490192345, 0.0, 1.5707963267948966, 0.7853981633974483]
         # Joint state publisher
         self.joint_state_pub = self.create_publisher(JointState, '/joint_states', 10)
         self.timer = self.create_timer(0.033, self.publish_joint_state)
@@ -68,7 +68,7 @@ class MoveItIKSolver(Node):
         
         future = self.ik_client.call_async(request)
         future.add_done_callback(self.ik_callback)
-    
+        request.ik_request.robot_state.joint_state.position = self.last_ik_solution  # Use last solution, not current
     def ik_callback(self, future):
         """Handle IK response"""
         try:
@@ -84,9 +84,9 @@ class MoveItIKSolver(Node):
             # Start motion
             self.target_positions = joint_angles
             self.motion_start_time = time.time()
-            self.motion_duration = 2.0
+            self.motion_duration = 5.0
             self.is_moving = True
-            
+            self.last_ik_solution = joint_angles
         except Exception as e:
             self.get_logger().error(f"IK callback error: {e}")
     

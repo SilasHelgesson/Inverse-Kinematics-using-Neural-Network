@@ -7,7 +7,7 @@ class RandomTargetGenerator(Node):
     def __init__(self):
         super().__init__('target_generator')
         self.pub = self.create_publisher(PoseStamped, '/target_ee_pose', 10)
-        self.timer = self.create_timer(2.0, self.publish_target)
+        self.timer = self.create_timer(5.0, self.publish_target)
     
     def publish_target(self):
         """Generate random ee_pose around robot workspace"""
