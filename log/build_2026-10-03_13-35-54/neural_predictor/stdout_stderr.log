@@ -1,0 +1,18 @@
+running egg_info
+writing ../../build/neural_predictor/neural_predictor.egg-info/PKG-INFO
+writing dependency_links to ../../build/neural_predictor/neural_predictor.egg-info/dependency_links.txt
+writing requirements to ../../build/neural_predictor/neural_predictor.egg-info/requires.txt
+writing top-level names to ../../build/neural_predictor/neural_predictor.egg-info/top_level.txt
+reading manifest file '../../build/neural_predictor/neural_predictor.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/neural_predictor/neural_predictor.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/neural_predictor/lib/python3.12/site-packages/neural_predictor-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/neural_predictor/neural_predictor.egg-info to /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/neural_predictor/lib/python3.12/site-packages/neural_predictor-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/neural_predictor/install.log'

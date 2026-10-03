@@ -1,0 +1,24 @@
+running egg_info
+writing ../../build/target_generator/target_generator.egg-info/PKG-INFO
+writing dependency_links to ../../build/target_generator/target_generator.egg-info/dependency_links.txt
+writing entry points to ../../build/target_generator/target_generator.egg-info/entry_points.txt
+writing requirements to ../../build/target_generator/target_generator.egg-info/requires.txt
+writing top-level names to ../../build/target_generator/target_generator.egg-info/top_level.txt
+reading manifest file '../../build/target_generator/target_generator.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/target_generator/target_generator.egg-info/SOURCES.txt'
+running build
+running build_py
+copying target_generator/random_target_node.py -> /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/target_generator/build/lib/target_generator
+running install
+running install_lib
+copying /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/target_generator/build/lib/target_generator/random_target_node.py -> /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/target_generator/lib/python3.12/site-packages/target_generator
+byte-compiling /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/target_generator/lib/python3.12/site-packages/target_generator/random_target_node.py to random_target_node.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/target_generator/lib/python3.12/site-packages/target_generator-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/target_generator/target_generator.egg-info to /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/target_generator/lib/python3.12/site-packages/target_generator-0.0.0-py3.12.egg-info
+running install_scripts
+Installing marker script to /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/target_generator/lib/target_generator
+Installing random_target script to /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/target_generator/lib/target_generator
+writing list of installed files to '/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/target_generator/install.log'

@@ -1,0 +1,36 @@
+[1.832s] Invoking command in '/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/src/traditional_predictor': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/traditional_predictor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/traditional_predictor/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/traditional_predictor build --build-base /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/traditional_predictor/build install --record /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/traditional_predictor/install.log --install-scripts $base/lib/traditional_predictor --single-version-externally-managed install_data
+[2.247s] running egg_info
+[2.247s] creating ../../build/traditional_predictor/traditional_predictor.egg-info
+[2.274s] writing ../../build/traditional_predictor/traditional_predictor.egg-info/PKG-INFO
+[2.274s] writing dependency_links to ../../build/traditional_predictor/traditional_predictor.egg-info/dependency_links.txt
+[2.275s] writing requirements to ../../build/traditional_predictor/traditional_predictor.egg-info/requires.txt
+[2.275s] writing top-level names to ../../build/traditional_predictor/traditional_predictor.egg-info/top_level.txt
+[2.275s] writing manifest file '../../build/traditional_predictor/traditional_predictor.egg-info/SOURCES.txt'
+[2.341s] reading manifest file '../../build/traditional_predictor/traditional_predictor.egg-info/SOURCES.txt'
+[2.341s] adding license file 'LICENSE'
+[2.341s] writing manifest file '../../build/traditional_predictor/traditional_predictor.egg-info/SOURCES.txt'
+[2.342s] running build
+[2.344s] running build_py
+[2.344s] creating /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/traditional_predictor/build
+[2.345s] creating /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/traditional_predictor/build/lib
+[2.345s] creating /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/traditional_predictor/build/lib/traditional_predictor
+[2.345s] copying traditional_predictor/__init__.py -> /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/traditional_predictor/build/lib/traditional_predictor
+[2.345s] copying traditional_predictor/traditional_ik_solver.py -> /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/traditional_predictor/build/lib/traditional_predictor
+[2.345s] running install
+[2.350s] running install_lib
+[2.375s] creating /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/traditional_predictor/lib/python3.12/site-packages/traditional_predictor
+[2.375s] copying /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/traditional_predictor/build/lib/traditional_predictor/__init__.py -> /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/traditional_predictor/lib/python3.12/site-packages/traditional_predictor
+[2.375s] copying /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/traditional_predictor/build/lib/traditional_predictor/traditional_ik_solver.py -> /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/traditional_predictor/lib/python3.12/site-packages/traditional_predictor
+[2.376s] byte-compiling /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/traditional_predictor/lib/python3.12/site-packages/traditional_predictor/__init__.py to __init__.cpython-312.pyc
+[2.376s] byte-compiling /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/traditional_predictor/lib/python3.12/site-packages/traditional_predictor/traditional_ik_solver.py to traditional_ik_solver.cpython-312.pyc
+[2.378s] running install_data
+[2.378s] creating /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/traditional_predictor/share/ament_index
+[2.378s] creating /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/traditional_predictor/share/ament_index/resource_index
+[2.379s] creating /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/traditional_predictor/share/ament_index/resource_index/packages
+[2.379s] copying resource/traditional_predictor -> /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/traditional_predictor/share/ament_index/resource_index/packages
+[2.380s] copying package.xml -> /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/traditional_predictor/share/traditional_predictor
+[2.380s] running install_egg_info
+[2.417s] Copying ../../build/traditional_predictor/traditional_predictor.egg-info to /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/traditional_predictor/lib/python3.12/site-packages/traditional_predictor-0.0.0-py3.12.egg-info
+[2.419s] running install_scripts
+[2.632s] writing list of installed files to '/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/traditional_predictor/install.log'
+[2.697s] Invoked command in '/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/src/traditional_predictor' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/traditional_predictor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/traditional_predictor/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/traditional_predictor build --build-base /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/traditional_predictor/build install --record /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/traditional_predictor/install.log --install-scripts $base/lib/traditional_predictor --single-version-externally-managed install_data

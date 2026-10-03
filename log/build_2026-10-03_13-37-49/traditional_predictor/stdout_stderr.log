@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/traditional_predictor/traditional_predictor.egg-info/PKG-INFO
+writing dependency_links to ../../build/traditional_predictor/traditional_predictor.egg-info/dependency_links.txt
+writing entry points to ../../build/traditional_predictor/traditional_predictor.egg-info/entry_points.txt
+writing requirements to ../../build/traditional_predictor/traditional_predictor.egg-info/requires.txt
+writing top-level names to ../../build/traditional_predictor/traditional_predictor.egg-info/top_level.txt
+reading manifest file '../../build/traditional_predictor/traditional_predictor.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/traditional_predictor/traditional_predictor.egg-info/SOURCES.txt'
+running build
+running build_py
+copying traditional_predictor/traditional_ik_solver.py -> /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/traditional_predictor/build/lib/traditional_predictor
+running install
+running install_lib
+copying /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/traditional_predictor/build/lib/traditional_predictor/traditional_ik_solver.py -> /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/traditional_predictor/lib/python3.12/site-packages/traditional_predictor
+byte-compiling /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/traditional_predictor/lib/python3.12/site-packages/traditional_predictor/traditional_ik_solver.py to traditional_ik_solver.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/traditional_predictor/lib/python3.12/site-packages/traditional_predictor-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/traditional_predictor/traditional_predictor.egg-info to /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/traditional_predictor/lib/python3.12/site-packages/traditional_predictor-0.0.0-py3.12.egg-info
+running install_scripts
+Installing traditional_ik script to /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/traditional_predictor/lib/traditional_predictor
+writing list of installed files to '/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/traditional_predictor/install.log'

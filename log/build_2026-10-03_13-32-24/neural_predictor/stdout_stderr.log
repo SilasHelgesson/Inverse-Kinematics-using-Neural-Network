@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/neural_predictor/neural_predictor.egg-info
+writing ../../build/neural_predictor/neural_predictor.egg-info/PKG-INFO
+writing dependency_links to ../../build/neural_predictor/neural_predictor.egg-info/dependency_links.txt
+writing requirements to ../../build/neural_predictor/neural_predictor.egg-info/requires.txt
+writing top-level names to ../../build/neural_predictor/neural_predictor.egg-info/top_level.txt
+writing manifest file '../../build/neural_predictor/neural_predictor.egg-info/SOURCES.txt'
+reading manifest file '../../build/neural_predictor/neural_predictor.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/neural_predictor/neural_predictor.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/neural_predictor/build
+creating /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/neural_predictor/build/lib
+creating /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/neural_predictor/build/lib/neural_predictor
+copying neural_predictor/__init__.py -> /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/neural_predictor/build/lib/neural_predictor
+running install
+running install_lib
+creating /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/neural_predictor/lib/python3.12/site-packages/neural_predictor
+copying /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/neural_predictor/build/lib/neural_predictor/__init__.py -> /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/neural_predictor/lib/python3.12/site-packages/neural_predictor
+byte-compiling /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/neural_predictor/lib/python3.12/site-packages/neural_predictor/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/neural_predictor/share/ament_index
+creating /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/neural_predictor/share/ament_index/resource_index
+creating /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/neural_predictor/share/ament_index/resource_index/packages
+copying resource/neural_predictor -> /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/neural_predictor/share/ament_index/resource_index/packages
+copying package.xml -> /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/neural_predictor/share/neural_predictor
+running install_egg_info
+Copying ../../build/neural_predictor/neural_predictor.egg-info to /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/neural_predictor/lib/python3.12/site-packages/neural_predictor-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/neural_predictor/install.log'

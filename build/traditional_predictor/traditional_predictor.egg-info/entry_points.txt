@@ -1,0 +1,2 @@
+[console_scripts]
+traditional_ik = traditional_predictor.traditional_ik_solver:main

@@ -1,0 +1,23 @@
+[1.762s] Invoking command in '/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/src/target_generator': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/target_generator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/target_generator/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/target_generator build --build-base /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/target_generator/build install --record /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/target_generator/install.log --install-scripts $base/lib/target_generator --single-version-externally-managed install_data
+[2.128s] running egg_info
+[2.155s] writing ../../build/target_generator/target_generator.egg-info/PKG-INFO
+[2.156s] writing dependency_links to ../../build/target_generator/target_generator.egg-info/dependency_links.txt
+[2.156s] writing entry points to ../../build/target_generator/target_generator.egg-info/entry_points.txt
+[2.156s] writing requirements to ../../build/target_generator/target_generator.egg-info/requires.txt
+[2.156s] writing top-level names to ../../build/target_generator/target_generator.egg-info/top_level.txt
+[2.215s] reading manifest file '../../build/target_generator/target_generator.egg-info/SOURCES.txt'
+[2.215s] adding license file 'LICENSE'
+[2.217s] writing manifest file '../../build/target_generator/target_generator.egg-info/SOURCES.txt'
+[2.217s] running build
+[2.218s] running build_py
+[2.218s] running install
+[2.228s] running install_lib
+[2.268s] running install_data
+[2.269s] running install_egg_info
+[2.308s] removing '/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/target_generator/lib/python3.12/site-packages/target_generator-0.0.0-py3.12.egg-info' (and everything under it)
+[2.308s] Copying ../../build/target_generator/target_generator.egg-info to /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/target_generator/lib/python3.12/site-packages/target_generator-0.0.0-py3.12.egg-info
+[2.309s] running install_scripts
+[2.501s] Installing marker script to /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/target_generator/lib/target_generator
+[2.501s] Installing random_target script to /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/target_generator/lib/target_generator
+[2.501s] writing list of installed files to '/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/target_generator/install.log'
+[2.559s] Invoked command in '/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/src/target_generator' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/target_generator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/target_generator/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/target_generator build --build-base /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/target_generator/build install --record /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/target_generator/install.log --install-scripts $base/lib/target_generator --single-version-externally-managed install_data

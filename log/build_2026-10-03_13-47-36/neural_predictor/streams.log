@@ -1,0 +1,20 @@
+[2.115s] Invoking command in '/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/src/neural_predictor': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/neural_predictor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/neural_predictor/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/neural_predictor build --build-base /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/neural_predictor/build install --record /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/neural_predictor/install.log --install-scripts $base/lib/neural_predictor --single-version-externally-managed install_data
+[2.536s] running egg_info
+[2.569s] writing ../../build/neural_predictor/neural_predictor.egg-info/PKG-INFO
+[2.570s] writing dependency_links to ../../build/neural_predictor/neural_predictor.egg-info/dependency_links.txt
+[2.570s] writing requirements to ../../build/neural_predictor/neural_predictor.egg-info/requires.txt
+[2.573s] writing top-level names to ../../build/neural_predictor/neural_predictor.egg-info/top_level.txt
+[2.639s] reading manifest file '../../build/neural_predictor/neural_predictor.egg-info/SOURCES.txt'
+[2.640s] adding license file 'LICENSE'
+[2.640s] writing manifest file '../../build/neural_predictor/neural_predictor.egg-info/SOURCES.txt'
+[2.642s] running build
+[2.642s] running build_py
+[2.642s] running install
+[2.652s] running install_lib
+[2.686s] running install_data
+[2.686s] running install_egg_info
+[2.718s] removing '/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/neural_predictor/lib/python3.12/site-packages/neural_predictor-0.0.0-py3.12.egg-info' (and everything under it)
+[2.718s] Copying ../../build/neural_predictor/neural_predictor.egg-info to /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/neural_predictor/lib/python3.12/site-packages/neural_predictor-0.0.0-py3.12.egg-info
+[2.719s] running install_scripts
+[2.955s] writing list of installed files to '/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/neural_predictor/install.log'
+[3.017s] Invoked command in '/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/src/neural_predictor' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/neural_predictor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/install/neural_predictor/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/neural_predictor build --build-base /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/neural_predictor/build install --record /home/glados/Desktop/Inverse-Kinematics-using-Neural-Network/build/neural_predictor/install.log --install-scripts $base/lib/neural_predictor --single-version-externally-managed install_data

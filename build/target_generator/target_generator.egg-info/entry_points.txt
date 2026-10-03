@@ -1,0 +1,3 @@
+[console_scripts]
+marker = target_generator.marker_publisher:main
+random_target = target_generator.random_target_node:main
