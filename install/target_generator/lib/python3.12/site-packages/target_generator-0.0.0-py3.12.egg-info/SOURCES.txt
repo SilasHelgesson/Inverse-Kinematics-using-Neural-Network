@@ -9,6 +9,7 @@ setup.py
 ../../build/target_generator/target_generator.egg-info/requires.txt
 ../../build/target_generator/target_generator.egg-info/top_level.txt
 ../../build/target_generator/target_generator.egg-info/zip-safe
+launch/target_generator.launch.py
 resource/target_generator
 target_generator/__init__.py
 target_generator/marker_publisher.py

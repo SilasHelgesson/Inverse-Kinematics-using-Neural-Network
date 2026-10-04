@@ -5,10 +5,14 @@ setup.py
 ../../build/neural_predictor/neural_predictor.egg-info/PKG-INFO
 ../../build/neural_predictor/neural_predictor.egg-info/SOURCES.txt
 ../../build/neural_predictor/neural_predictor.egg-info/dependency_links.txt
+../../build/neural_predictor/neural_predictor.egg-info/entry_points.txt
 ../../build/neural_predictor/neural_predictor.egg-info/requires.txt
 ../../build/neural_predictor/neural_predictor.egg-info/top_level.txt
 ../../build/neural_predictor/neural_predictor.egg-info/zip-safe
+launch/main_ik_comparison.launch.py
+launch/nn_robot.launch.py
 neural_predictor/__init__.py
+neural_predictor/online_training_ik.py
 resource/neural_predictor
 test/test_copyright.py
 test/test_flake8.py
